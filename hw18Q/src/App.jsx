@@ -1,9 +1,12 @@
-import React, { useState } from "react";
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
-
+import Color from "./Components/Color/Color";
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Color />
+    </div>
+  );
 }
 
 export default App;
