@@ -1,9 +1,13 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
+import AdjustColor from "./Components/AdjustColor/AdjustColor";
 import "./App.css";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <AdjustColor />
+    </div>
+  );
 }
 
 export default App;

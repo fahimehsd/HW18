@@ -1,0 +1,16 @@
+button {
+  background-color: rgb(0, 86, 246);
+  color: white;
+  border: none;
+  outline: none;
+  padding: 1rem;
+  width: 100%;
+  border-radius: 0.5rem;
+  margin-block: 0.5rem;
+}
+.boxColor {
+  width: 12rem;
+  height: 12rem;
+  border: 1px solid silver;
+  background: none;
+}
