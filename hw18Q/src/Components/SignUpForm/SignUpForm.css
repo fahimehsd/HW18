@@ -1,0 +1,30 @@
+.formContainer {
+  background-color: whitesmoke;
+  text-align: center;
+  width: 30rem;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+input {
+  background-color: transparent;
+  border: 1px solid silver;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  width: 20rem;
+  margin-top: 1rem;
+}
+.input-fields {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  width: 20rem;
+  margin-top: 1rem;
+  border: none;
+  background-color: blue;
+  color: white;
+}

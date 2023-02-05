@@ -7,4 +7,10 @@ body {
   font-family: "Candara";
   width: 30rem;
   margin: 0 auto;
+  background: no-repeat linear-gradient(blue, purple);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

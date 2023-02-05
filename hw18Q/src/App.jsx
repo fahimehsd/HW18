@@ -1,9 +1,13 @@
 import React, { useState } from "react";
-import logo from "./logo.svg";
+import SignUpForm from "./Components/SignUpForm/SignUpForm";
 import "./App.css";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <SignUpForm />
+    </div>
+  );
 }
 
 export default App;
